@@ -23,8 +23,5 @@ func strStr(haystack string, needle string) int {
 }
 
 func main() {
-	test1 := strStr("leetcode", "leeto")
-	test2 := strStr("sadbutsad", "sad")
-	fmt.Println(test1)
-	fmt.Println(test2)
+	fmt.Println("Hello World")
 }

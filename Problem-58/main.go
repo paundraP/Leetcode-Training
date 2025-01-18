@@ -18,11 +18,5 @@ func lengthOfLastWord(s string) int {
 }
 
 func main() {
-	test1 := lengthOfLastWord("Hello World")
-	test2 := lengthOfLastWord("   fly me   to   the moon  ")
-	test3 := lengthOfLastWord("luffy is still joyboy")
-
-	fmt.Println(test1)
-	fmt.Println(test2)
-	fmt.Println(test3)
+	fmt.Println("Hello World")
 }

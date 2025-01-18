@@ -20,11 +20,5 @@ func searchInsert(nums []int, target int) int {
 }
 
 func main() {
-	array := []int{1, 3, 5, 6}
-	test1 := searchInsert(array, 5)
-	test2 := searchInsert(array, 2)
-	test3 := searchInsert(array, 7)
-	fmt.Println(test1)
-	fmt.Println(test2)
-	fmt.Println(test3)
+	fmt.Println("Hello World")
 }
